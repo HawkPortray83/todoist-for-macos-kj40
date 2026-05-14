@@ -1,4 +1,4 @@
-#  
+#  Enhance Todoist for macOS with Todoist for macOS rare Plugin: export to PDF & real-time editing, the #1 plugin. Includes export to PDF and real-time editing for a smoother
 
 
 
